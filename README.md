@@ -8,3 +8,7 @@ This repo is just to keep track as I work through unit 4 of [Get Programming Wit
 
 - Learned how to add validations to model schemas to ensure certain fields meet desired parameters before being added to a database.
 - Learned how to test models in Node's REPL in the terminal.
+
+### Lesson 18
+
+- [in progress]
