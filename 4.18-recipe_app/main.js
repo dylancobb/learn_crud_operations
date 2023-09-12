@@ -41,6 +41,9 @@ app.get(
     '/subscribers',
     subscribersController.getAllSubscribers
 );
+// handle users GET request
+const usersController = require("./controllers/usersController");
+app.get("/users", usersController.index, usersController.indexView)
 // handle contact GET request
 app.get('/contact', (req, res, next) => {
     res.render('contact');
