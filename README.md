@@ -11,4 +11,5 @@ This repo is just to keep track as I work through unit 4 of [Get Programming Wit
 
 ### Lesson 18
 
-- [in progress]
+- Building a user model (**Note: authentication and encryption of passwords not implemented yet, obviously we won't be storing plaintext passwords on the finished app!**)
+- 
